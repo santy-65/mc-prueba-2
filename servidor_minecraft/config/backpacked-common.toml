@@ -6,7 +6,7 @@
 	#If enabled, hides the config button from the backpack screen
 	keepBackpackOnDeath = false
 	#The amount of slot rows in the backpack inventory.
-	backpackInventorySize = 1
+	backpackInventorySize = 6
 
 	[common.wandering_trader]
 		#If enabled, hides the config button from the backpack screen
