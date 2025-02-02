@@ -56,16 +56,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "your-republic.gl.at.ply.gg",
+          "assigned_domain": "terms-islam.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "a9724841-13e4-4afb-b937-953308f508fe",
+          "id": "c1ed170a-0ca7-4e36-aeeb-db3d8e17f262",
           "ip_hostname": "25.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 2876,
-          "port_start": 2875,
+          "port_end": 2771,
+          "port_start": 2770,
           "region": "global",
           "static_ip4": "147.185.221.25",
           "static_ip6": "2602:fbaf:0:1::19",
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-02-01T23:50:16.672177Z",
+      "created_at": "2025-02-02T00:09:07.524012Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "e8593754-a233-4434-8c5a-44d52b785f92",
+      "id": "185c67f8-b01a-46a7-a980-00ee10bd931d",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "3fb7541b-8aad-4747-ac2f-90a73dec3e89",
           "agent_name": "from-key-3d7c",
           "local_ip": "127.0.0.1",
-          "local_port": 2875
+          "local_port": 2770
         },
         "type": "agent"
       },

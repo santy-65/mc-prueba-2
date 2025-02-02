@@ -1,775 +1,96 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1738454524752 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1738455307027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454528447 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455310155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454531595 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455313284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454534779 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455316434 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454537882 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455319575 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454540988 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455322755 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454544157 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455326101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454547291 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455329234 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454550434 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455332384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454553600 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455335510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454556749 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455338707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454559882 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455342418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454563001 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455345537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454566151 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455349235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454569917 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455352341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454573052 tunnel running, 2 tunnels registered
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1738455355483 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454576170 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454579752 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454582889 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454586032 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454589144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454592250 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454595386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454598492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454601616 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454604717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454607825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454610948 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454614103 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454617480 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454620588 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454623705 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454626851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454630004 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454633200 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454636327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454639467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454642592 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454645716 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454648853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454651975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454655117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454658233 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454661392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454664508 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454667618 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454670779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454674172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454677349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454680458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454684284 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454687395 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454690802 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454693949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454697073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454700518 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454703626 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454706748 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454709857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454712982 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454716116 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454719267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454722395 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454725533 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454728651 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454731809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454734952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454738080 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454741245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454745048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454748159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454751310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454754453 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454757582 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454760698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454763851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454766989 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454770155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454773294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454776821 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454780019 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454783143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454786301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (disabled)
-[2J8[0mplayit (v0.15.26): 1738454789436 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-your-republic.gl.at.ply.gg:2875 => 127.0.0.1:2875 (disabled)
-[2J8[0mplayit (v0.15.26): 1738454792574 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454796158 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454799431 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454802558 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454805854 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454808968 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454812101 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454815253 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454818393 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454821496 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454824614 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454827732 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454831116 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454834268 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454837432 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454840937 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454844677 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454848270 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454852080 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454855242 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454858362 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454861531 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454864658 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454867795 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454870903 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454874025 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454877129 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454881060 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454885007 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454888135 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454891249 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454894399 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454898091 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454901808 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454905049 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454908301 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454912607 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454915743 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454918898 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454922017 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454925734 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454928926 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454932416 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454935545 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454939125 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454942287 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454945447 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738454948603 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/185c67f8-b01a-46a7-a980-00ee10bd931d
-[2J8[0mplayit (v0.15.26): 1738454951738 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/185c67f8-b01a-46a7-a980-00ee10bd931d
-[2J8[0mplayit (v0.15.26): 1738454954853 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/185c67f8-b01a-46a7-a980-00ee10bd931d
-[2J8[0mplayit (v0.15.26): 1738454957989 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454961110 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738454964316 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-target-appears.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+terms-islam.gl.at.ply.gg:2770 => 127.0.0.1:2770 (proto: Udp, port count: 1)
